@@ -1,7 +1,6 @@
-#odin-recipes
-Building a recipe website 
+#odin-recipes: Building a recipe website 
 
-This part of my projects learning web developement in The Odin Project.
+This project is about learning web developement using The Odin Project.
 
-First part, is creating a main index page which will have links to a few
+The first part, is creating a main index page which will have links to a few
 recipes.
